@@ -9,10 +9,10 @@ This project contains the solutions to a step-by-step JavaScript exercise provid
 ## 📘 Table of Contents
 
 * [Step 1: Get Average](#-step-1-get-average)
-* [Step 2: Get Grade](#step-2-get-grade)
-* [Step 3: Check Passing Grade](#step-3-check-passing-grade)
+* [Step 2: Get Grade](#-step-2-get-grade)
+* [Step 3: Check Passing Grade](#-step-3-check-passing-grade)
 * [Step 4: Create Student Message](#step-4-create-student-message)
-* [✅ Full Code](#️full-code)
+* [✅ Full Code](#️-full-code)
 
 ---
 
@@ -219,3 +219,4 @@ function studentMsg(totalScores, studentScore) {
   }`;
 }
 ```
+* [Back to Top](#JS_Fundamental_Gradebook_App_Freecodecamp)
